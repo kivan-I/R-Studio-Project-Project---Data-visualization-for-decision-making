@@ -1,0 +1,13 @@
+﻿"REF_DATE","GEO","DGUID","Labour force characteristics","Sex","Age group","Statistics","Data type","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+"2021-01","Newfoundland and Labrador","2016A000210","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2063003","2.6.1.1.1.1","33.0","","","","1"
+"2021-01","Prince Edward Island","2016A000211","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2063192","3.6.1.1.1.1","7.5","","","","1"
+"2021-01","Nova Scotia","2016A000212","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2063381","4.6.1.1.1.1","44.2","","","","1"
+"2021-01","New Brunswick","2016A000213","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2063570","5.6.1.1.1.1","35.9","","","","1"
+"2021-01","Quebec","2016A000224","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2063759","6.6.1.1.1.1","373.2","","","","1"
+"2021-01","Ontario","2016A000235","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2063948","7.6.1.1.1.1","808.4","","","","1"
+"2021-01","Manitoba","2016A000246","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2064137","8.6.1.1.1.1","55.1","","","","1"
+"2021-01","Saskatchewan","2016A000247","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2064326","9.6.1.1.1.1","42.1","","","","1"
+"2021-01","Alberta","2016A000248","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2064515","10.6.1.1.1.1","252.4","","","","1"
+"2021-01","British Columbia","2016A000259","Unemployment","Both sexes","15 years and over","Estimate","Seasonally adjusted","Persons","249","thousands","3","v2064704","11.6.1.1.1.1","218.2","","","","1"
+
+
